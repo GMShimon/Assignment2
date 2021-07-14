@@ -30,7 +30,7 @@ nav li a{
 .images{
     width: 369px;
     height: 303px;
-    transition: transform 0.5s linear;
+    transition: transform 2.5s ease-in-out;
 }
 .images:hover{
   transform: rotate(360deg);
