@@ -137,3 +137,15 @@ nav li a{
   margin-left:20px;
   width:50%
 }
+/* social media logo */
+.social{
+  margin:0 700px;
+}
+.social-media{
+  padding-left:45px;
+  width:12%;
+}
+/* copyright */
+#copyright{
+  text-align: center;
+}
